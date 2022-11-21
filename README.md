@@ -2,6 +2,7 @@
 ### Descripción del Proyecto
 Este proyecto consiste en crear un index.html donde ponga Hello World y una foto nuestra.
 
+![image](https://user-images.githubusercontent.com/117999023/203099349-da08d8ab-6f75-4f66-be40-3960a8894361.png)
 
 
 ### Primer Paso 
